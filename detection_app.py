@@ -4,7 +4,7 @@ import numpy as np
 from detection_model import DetectionModel
 
 if __name__=='__main__':
-    model_path = '.\detection_model.pt'
+    model_path = 'detection_model.pt'
     model = DetectionModel(model_path)
 
     st.title('Kidney Stones Detection')
