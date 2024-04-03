@@ -7,6 +7,6 @@ Kidney stones (also called renal calculi, nephrolithiasis or urolithiasis) are h
 * Used openCV to outline the detected kidney stones.
 
 
-Link: kidney-stones-detection-app.streamlit.app
+[Link](kidney-stones-detection-app.streamlit.app)
 
 ![Kidney_Stones_detection](https://github.com/MohamedSameh10/Kidney-Stones-Detection-App/assets/55671037/c51de97d-9137-47e0-a102-7a44668563a9)
